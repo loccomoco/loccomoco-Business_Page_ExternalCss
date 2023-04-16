@@ -1,0 +1,67 @@
+body{
+	background-color: black;
+
+}
+
+a{	
+	text-decoration: none;
+	color: white;
+	font-size: 18;
+	font-family: arial;
+	
+}
+#h3{
+	color: white;
+	font-size: 30;
+	font-family: arial;
+}
+
+#p1{
+	color: white;
+	font-size: 19;
+	font-family: arial;
+}
+#p2{
+	color: red;
+	font-size: 17;
+	font-family: serif;
+}
+#p3{
+	color: white;
+	font-size: 15;
+	font-family: serif;
+}
+
+#p4{
+	color: white;
+	font-size: 19;
+	font-family: arial;
+}
+#p5{
+	color: red;
+	font-size: 17;
+	font-family: serif;
+}
+#p6{
+	color: white;
+	font-size: 15;
+	font-family: serif;
+}
+
+p{
+	color: white;
+	font-size: 25;
+	font-family: garamond;
+}
+li{
+	color: white;
+	font-size: 15;
+}
+
+a:hover{
+	color: orange;
+}
+
+#tr1{
+	background-color: #111111;
+}

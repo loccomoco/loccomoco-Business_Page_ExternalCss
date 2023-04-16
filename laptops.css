@@ -1,0 +1,48 @@
+body{
+	background-color: black;
+
+}
+
+a{	
+	text-decoration: none;
+	color: white;
+	font-size: 18;
+	font-family: arial;
+	
+}
+
+#h3{
+	color: white;
+	font-size: 30;
+	font-family: arial;
+}
+
+p{
+	color: white;
+	font-size: 50;
+}
+
+#p1{
+	color: white;
+	font-size: 22;
+}
+
+#p2{
+	color: white;
+	font-size: 22;
+}
+
+#td1{
+	color: white;
+	font-size: 50;
+	font-family: garamond;
+}
+
+li{
+	color: white;
+	font-size: 17;
+}
+
+a:hover{
+	color: orange;
+}

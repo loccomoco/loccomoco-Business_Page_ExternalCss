@@ -1,0 +1,27 @@
+body{
+	background-color: black;
+
+}
+
+a{	
+	text-decoration: none;
+	color: white;
+	font-size: 18;
+	font-family: arial;
+	
+}
+
+h3{
+	color: white;
+	font-size: 40;
+	font-family: arial;
+}
+p{
+	color: white;
+	font-size: 25;
+	font-family: arial;
+}
+
+a:hover{
+	color: orange;
+}

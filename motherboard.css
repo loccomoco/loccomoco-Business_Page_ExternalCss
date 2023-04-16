@@ -1,0 +1,29 @@
+body{
+	background-color: black;
+
+}
+
+a{	
+	text-decoration: none;
+	color: white;
+	font-size: 18;
+	font-family: arial;
+	
+}
+#h3{
+	color: white;
+	font-size: 30;
+	font-family: arial;
+}
+p{
+	color: white;
+	font-size: 30;
+}
+li{
+	color: white;
+	font-size: 17;
+}
+
+a:hover{
+	color: orange;
+}

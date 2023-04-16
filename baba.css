@@ -1,0 +1,24 @@
+body{
+	background-color: #105CF4;
+
+}
+table{
+	background-color: black;
+}
+
+a{
+	text-decoration: none;
+	color: #050599;
+	font-size: 18;
+	font-family: Garamond;
+}
+p{
+	color: white;
+	font-size: 20;
+	font-family: arial;
+}
+th	{
+	color: white;
+	font-size: 30;
+	font-family: arial;
+} 

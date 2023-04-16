@@ -1,0 +1,31 @@
+body{
+	background-color: #105CF4;
+}
+
+a{	
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover{
+	color: red;
+}
+
+table{
+	background-color: white;
+}
+
+th{
+	color: #105CF4;
+	font-size: 30;
+	font-family: monospace;
+}
+
+h1{
+	font-size: 25;
+}
+
+td{
+	font-size: 20;
+	font-family: monospace;
+}

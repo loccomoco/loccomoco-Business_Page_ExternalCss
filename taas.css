@@ -1,0 +1,14 @@
+body{
+	background-color: white;
+
+}
+
+a{
+	text-decoration: none;
+	color: #050599;
+	font-size: 18;
+	font-family: Garamond;
+}
+a:hover	{
+	color: red;
+}

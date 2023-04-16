@@ -1,0 +1,34 @@
+body{
+	background-color: #105CF4;
+}
+
+#fb{
+	text-decoration: none;
+	color: black;
+	font-size: 15;
+	font-family: arial;
+}
+
+#m{
+	color: darkred;
+	font-size: 16;
+	font-family: arial;
+}
+
+th{
+	color: black;
+	font-size: 35;
+	font-family: arial;
+}
+
+h3{
+	color: #105CF4;
+	font-size: 20;
+	font-family: arial;
+}
+
+p{
+	color: #105CF4;
+	font-size: 14;
+	font-family: arial;
+}
